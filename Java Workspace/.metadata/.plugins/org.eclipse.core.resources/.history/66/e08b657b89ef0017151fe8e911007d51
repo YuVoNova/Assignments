@@ -1,0 +1,17 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String[] x = {"YARRAK", "GÖT"};
+		
+		OG(x);
+		
+		System.out.println(x[0] + x[1]);
+	}
+	
+	static void OG(String[] x)
+	{
+		x[0] = "BOB";
+		x[1] = "VAGENE";
+	}
+}

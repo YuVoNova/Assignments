@@ -1,0 +1,53 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = "Java", y = "Java";
+		
+		Object b = new B();
+		Object c = new C();
+		
+		//b = (B) c;
+
+class A
+{
+	public int a;
+	
+	public void ABC(double i)
+	{
+		System.out.println(i);
+	}
+}
+
+class B extends A
+{	
+	public void ABC(double i)
+	{
+		System.out.println(i * 2);
+	}
+}
+
+class C extends A 
+{
+	public void ABC(double i)
+	{
+		System.out.println(i * 3);
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

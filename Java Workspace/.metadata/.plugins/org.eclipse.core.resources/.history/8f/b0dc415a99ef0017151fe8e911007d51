@@ -1,0 +1,62 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = "Java", y = "Java";
+		
+		if (x.matches(y))
+		{
+			System.out.println("Matches = true");
+		}
+		else 
+		{
+			System.out.println("Matches = false");
+		}
+		
+		if (x.equals(y))
+		{
+			System.out.println("Equals = true");
+		}
+		else 
+		{
+			System.out.println("Equals = false");
+		}
+		
+		System.out.println();
+	}
+}
+
+class A
+{
+	public int a;
+	
+	public void ABC(double i)
+	{
+		System.out.println(i * 2);
+	}
+}
+
+class B extends A
+{	
+	public B(int b)
+	{
+		
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

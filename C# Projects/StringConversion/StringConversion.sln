@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConversion", "StringConversion\StringConversion.csproj", "{7226BE2F-5387-4EC4-A7B4-1368544A8E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7226BE2F-5387-4EC4-A7B4-1368544A8E1C}.Debug|x86.ActiveCfg = Debug|x86
+		{7226BE2F-5387-4EC4-A7B4-1368544A8E1C}.Debug|x86.Build.0 = Debug|x86
+		{7226BE2F-5387-4EC4-A7B4-1368544A8E1C}.Release|x86.ActiveCfg = Release|x86
+		{7226BE2F-5387-4EC4-A7B4-1368544A8E1C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = StringConversion\StringConversion.csproj
+	EndGlobalSection
+EndGlobal

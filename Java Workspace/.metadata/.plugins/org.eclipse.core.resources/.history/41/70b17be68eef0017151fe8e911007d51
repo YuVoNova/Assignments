@@ -1,0 +1,16 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = "Java", y = "jAVA";
+		
+		
+		
+		System.out.println();
+	}
+	
+	static void OG(String[] x)
+	{
+		
+	}
+}

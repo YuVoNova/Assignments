@@ -1,0 +1,16 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = "YARRAK";
+		
+		OG(x);
+		
+		System.out.println(x);
+	}
+	
+	static void OG(String x)
+	{
+		x = "GÖT";
+	}
+}

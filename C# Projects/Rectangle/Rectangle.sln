@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle", "Rectangle\Rectangle.csproj", "{4EAC83A4-B99D-4ACC-9E3E-4FC5818C8BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EAC83A4-B99D-4ACC-9E3E-4FC5818C8BA0}.Debug|x86.ActiveCfg = Debug|x86
+		{4EAC83A4-B99D-4ACC-9E3E-4FC5818C8BA0}.Debug|x86.Build.0 = Debug|x86
+		{4EAC83A4-B99D-4ACC-9E3E-4FC5818C8BA0}.Release|x86.ActiveCfg = Release|x86
+		{4EAC83A4-B99D-4ACC-9E3E-4FC5818C8BA0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Rectangle\Rectangle.csproj
+	EndGlobalSection
+EndGlobal

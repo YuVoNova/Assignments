@@ -1,0 +1,23 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = "Java", y = "jAVA";
+		
+		if (x.matches(y))
+		{
+			System.out.println("Matches = true");
+		}
+		else 
+		{
+			System.out.println("Matches = false");
+		}
+		
+		System.out.println();
+	}
+	
+	static void OG(String[] x)
+	{
+		
+	}
+}

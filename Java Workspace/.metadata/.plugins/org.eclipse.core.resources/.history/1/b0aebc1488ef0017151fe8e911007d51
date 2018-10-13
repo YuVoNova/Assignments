@@ -1,0 +1,9 @@
+class T1
+{
+	public static void main(String[] args)
+	{
+		String x = null;
+		
+		System.out.print(x.toString());
+	}
+}
